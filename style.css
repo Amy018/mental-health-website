@@ -1,0 +1,45 @@
+html{
+    scroll-behavior: smooth;
+}
+body{
+    margin: 0;
+    padding: 0;
+    background-color: white;
+    
+}
+nav{
+    text-align: left;
+    background-color: aqua;
+    margin-bottom: 2em;
+    border-bottom: 2em;
+    border-radius: 1em;
+
+}
+nav a{
+    text-align: right;
+    text-decoration: none;
+    color: black;
+    font-size: 1em;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 10px;
+    gap: 15px;
+    margin: 0.5em;
+    margin-bottom: 1em;
+    background-color: aqua;
+    
+
+}
+.introduction{
+    background-image: url(images/overwhelmed\ or\ confused.jfif);
+    height: 300px;
+    max-width: 300px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    
+}
+.welcome{
+    background-image: url(images/figure\ 2.jfif);
+    background-color: black;
+}
