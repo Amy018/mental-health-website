@@ -31,7 +31,7 @@ nav a{
 
 }
 .introduction{
-    background-image: url(images/overwhelmed\ or\ confused.jfif);
+    background-image: url(images/overwhelmed-or-confused.jfif);
     height: 300px;
     max-width: 300px;
     background-repeat: no-repeat;
@@ -40,6 +40,6 @@ nav a{
     
 }
 .Welcome{
-    background-image: url(images/figure\ 2.jfif);
+    background-image: url(images/figure-2.jfif);
     background-color: black;
 }
